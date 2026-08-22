@@ -11,6 +11,6 @@ Welcome to my github page! I do... stuff. for myself, and for you i guess... Any
 <img width="390" height="151" alt="saas" src="https://github.com/user-attachments/assets/bde55b80-69cc-455e-b9fa-814dabf9624e" />
 
 
-<img width="220" height="138" alt="RAAAAAAAAA" src="https://github.com/user-attachments/assets/39ad9725-0e03-4de6-a34e-d060621e0310" /><img width="200" height="226" alt="150-1504620_javascript-logo-3640898516" src="https://github.com/user-attachments/assets/e65ec398-1b52-47c7-b02c-094de81aaedb" /> <img width="256" height="256" alt="531e07409bd71b08564c42b9ba62e9d8509786712-679901748" src="https://github.com/user-attachments/assets/f94c3c5d-0527-4349-94cd-da618a4e8360" />
+<img width="200" height="226" alt="150-1504620_javascript-logo-3640898516" src="https://github.com/user-attachments/assets/e65ec398-1b52-47c7-b02c-094de81aaedb" /> <img width="256" height="256" alt="531e07409bd71b08564c42b9ba62e9d8509786712-679901748" src="https://github.com/user-attachments/assets/f94c3c5d-0527-4349-94cd-da618a4e8360" />
 
 <img width="256" height="256" alt="grafik" src="https://github.com/user-attachments/assets/9726f874-47fb-4550-a33d-f93985df76c1" /><img width="250" height="250" alt="grafik" src="https://github.com/user-attachments/assets/fe48801d-3499-4b31-a5a4-18de93e6f416" /><img width="121" height="200" alt="deltarune-tenna" src="https://github.com/user-attachments/assets/622c2333-7689-4935-9b93-f94db5d9566a" />
